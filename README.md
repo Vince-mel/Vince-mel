@@ -1,21 +1,22 @@
 
-Hello! 👋, I'm Vincenzo Melillo   
+                             # Hello! 👋, I'm Vincenzo Melillo   
 
 
 
 
 
-A passionate Full-Stack developer from Italy 🇮🇹
-  vince-mel
+                ###A passionate Full-Stack developer from Italy 🇮🇹
+  
+      ##vince-mel
 
-🌱 I’m currently learning Java and Spring and nodejs
+#####🌱 I’m currently learning Java and Spring and nodejs
 
-👨‍💻 All of my projects are available at https://github.com/Vince-mel/
+####👨‍💻 All of my projects are available at https://github.com/Vince-mel/
 
-💬 Ask me about react, js, bootstrap, ts, java, spring 
+####💬 Ask me about react, js, bootstrap, ts, java, spring 
 
-📫 How to reach:
-melillo.vinc@gmail.com
+### #📫 How to reach:
+##### melillo.vinc@gmail.com
 
 
 
