@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**Vince-mel/Vince-mel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! 👋, I'm Vincenzo Melillo   
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+A passionate Full-Stack developer from Italy 🇮🇹
+  vince-mel
+
+🌱 I’m currently learning Java and Spring and nodejs
+
+👨‍💻 All of my projects are available at https://github.com/Vince-mel/
+
+💬 Ask me about react, js, bootstrap, ts, java, spring 
+
+📫 How to reach:
+melillo.vinc@gmail.com
+
+
+
+
+Connect with me:
+[Il mio profilo LinkedIn](https://www.linkedin.com/in/vincenzo-melillo-developer/)
+ 
+
+Languages and Tools:
+bootstrap css3 html5 ifttt java javascript nodejs postgresql postman react sass typescript
