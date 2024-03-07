@@ -1,18 +1,16 @@
-
-                             # Hello! 👋, I'm Vincenzo Melillo   
-
+# Hello! 👋, I'm Vincenzo Melillo   
 
 
+![immaggiot](https://github.com/Vince-mel/Vince-mel/assets/137229406/46776543-8785-4bed-9cb7-0e7f1ae10bc8)
 
 
-                ###A passionate Full-Stack developer from Italy 🇮🇹
+
+
+###A passionate Full-Stack developer from Italy 🇮🇹
   
-      ##vince-mel
-
+##vince-mel
 #####🌱 I’m currently learning Java and Spring and nodejs
-
 ####👨‍💻 All of my projects are available at https://github.com/Vince-mel/
-
 ####💬 Ask me about react, js, bootstrap, ts, java, spring 
 
 ### #📫 How to reach:
