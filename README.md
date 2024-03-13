@@ -36,7 +36,7 @@
 
 ###  [Il mio profilo LinkedIn] (https://www.linkedin.com/in/vincenzo-melillo-developer/)
  
-##  Visita il mio [portfolio](https://vince-mel-portfolio.vercel.app/) per vedere i miei progetti.
+##  Visita il mio [portfolio](https://vince-mel-portfolio.vercel.app/) 
 
  
 ### Languages and Tools:
