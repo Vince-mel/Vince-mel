@@ -34,9 +34,9 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
 
-###  [Il mio profilo LinkedIn] (https://www.linkedin.com/in/vincenzo-melillo-developer/)
+###  [LinkedIn] (https://www.linkedin.com/in/vincenzo-melillo-developer/)
  
-##  Visita il mio [portfolio](https://vince-mel-portfolio.vercel.app/) 
+##  My [Portfolio](https://vince-mel-portfolio.vercel.app/) 
 
  
 ### Languages and Tools:
